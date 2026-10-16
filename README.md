@@ -4,3 +4,5 @@ Hand-off point for O'Connor Digital Marketing social media files on their way in
 
 Folders are one per week of the ODM social plan (w01 = 13 to 19 October 2026). Raw file URLs follow the pattern
 `https://raw.githubusercontent.com/OConnorDM/odm-social-media/main/w01/<file>`.
+
+Client folders use the client prefix and month: `llm-2026-11/` holds Life's Little Magnets' November 2026 batch (files named `llm-D{n}-...`), approved by Nate 16 Oct 2026.
